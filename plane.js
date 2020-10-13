@@ -8,6 +8,5 @@ class plane {
   this.image = loadImage("sprites/plane.png");
 }
 {function keyPressed() {
-  if (keyCode === DOWN_ARROW) {
-  }
-}
+  f (keyCode === LEFT_ARROW) 
+  { helicopterSprite.x=helicopterSprite.x-20; translation={x:-20,y:0} Matter.Body.translate(packageBody, translation
